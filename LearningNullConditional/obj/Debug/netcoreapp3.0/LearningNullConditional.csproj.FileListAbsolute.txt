@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\bin\Debug\netcoreapp3.0\LearningNullConditional.exe
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\bin\Debug\netcoreapp3.0\LearningNullConditional.deps.json
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\bin\Debug\netcoreapp3.0\LearningNullConditional.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\bin\Debug\netcoreapp3.0\LearningNullConditional.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\bin\Debug\netcoreapp3.0\LearningNullConditional.dll
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\bin\Debug\netcoreapp3.0\LearningNullConditional.pdb
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\obj\Debug\netcoreapp3.0\LearningNullConditional.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\obj\Debug\netcoreapp3.0\LearningNullConditional.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\obj\Debug\netcoreapp3.0\LearningNullConditional.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\obj\Debug\netcoreapp3.0\LearningNullConditional.dll
+C:\Users\Jason\source\repos\LearningNullConditional\LearningNullConditional\obj\Debug\netcoreapp3.0\LearningNullConditional.pdb
